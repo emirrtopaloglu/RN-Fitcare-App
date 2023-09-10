@@ -1,0 +1,7 @@
+{
+  "name": "Fitcare",
+  "displayName": "Fitcare",
+  "react-native-google-mobile-ads": {
+    "ios_app_id": "ca-app-pub-XXXXX~XXXXX"
+  }
+}
